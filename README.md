@@ -49,7 +49,15 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## About
 
-This repository is maintained by [Raymond Obu](https://github.com/oburay).
+This repository is maintained by Obu Raymond. I am a **CS graduate student at Stanford** specializing in **Computer Networks and Security**. I have a deep passion for computer science, with a particular focus on solving complex problems in systems, networks, and security. As part of my academic journey, I regularly engage in algorithmic problem-solving and programming challenges to enhance my skills.
+
+By working through problems like those found on **LeetCode**, I aim to continuously improve my problem-solving techniques, stay up-to-date with the latest advancements in computer science, and build a solid foundation for tackling real-world technical challenges.
+
+I believe that strong foundations in algorithm design and system security are essential for building resilient, high-performance applications. This repository represents my commitment to improving my coding skills, and I hope my solutions can be helpful to others who are also learning and growing in the field.
+
+You can connect with me or learn more about my work via my GitHub profile: [Oburay](https://github.com/oburay).
+You can check out my problem-solving progress and rankings on **LeetCode** here: [Oburay23](https://leetcode.com/u/oburay23/)
+
 
 ---
 
