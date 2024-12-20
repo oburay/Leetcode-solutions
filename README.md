@@ -17,7 +17,7 @@ This category contains solutions to LeetCode problems related to **arrays** and 
 
 | **Problem Name**        | **Problem Number** | **Difficulty** | **Time Complexity** | **Space Complexity** | **Link to Solution**               |
 |-------------------------|--------------------|----------------|---------------------|----------------------|-------------------------------------|
-| Richest Customer Wealth                 | 1672                  | Easy           | O(m x n)                | O(n)                 | [Solution](https://github.com/your-username/repo-name/arrays/1-two-sum.cpp) |
+| Richest Customer Wealth                 | 1672                  | Easy           | O(m x n)                | O(n)                 | [Solution](https://github.com/oburay/Leetcode-solutions/blob/main/Arrays%20and%20Matrices/Richest%20Customer%20Wealth.cpp) |
 
 
 ---
