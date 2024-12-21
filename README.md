@@ -37,7 +37,7 @@ This category contains solutions to LeetCode problems related to **arrays** and 
 
 | **Problem Name**        | **Problem Number** | **Difficulty** | **Time Complexity** | **Space Complexity** | **Link to Solution**               |
 |-------------------------|--------------------|----------------|---------------------|----------------------|-------------------------------------|
-| Number of Steps to Reduce a Number to Zero| 1342               | Easy         | O(logn)                | O(1)         | [Solution](https://github.com/oburay/Leetcode-solutions/blob/main/Strings/%20Fizz%20Buzz.cpp) |
+| Number of Steps to Reduce a Number to Zero| 1342               | Easy         | O(logn)                | O(1)         | [Solution](https://github.com/oburay/Leetcode-solutions/blob/main/Misc/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp) |
 
 
 ---
