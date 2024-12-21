@@ -31,7 +31,7 @@ This category contains solutions to LeetCode problems related to **arrays** and 
 
 | **Problem Name**        | **Problem Number** | **Difficulty** | **Time Complexity** | **Space Complexity** | **Link to Solution**               |
 |-------------------------|--------------------|----------------|---------------------|----------------------|-------------------------------------|
-| Fizz Buzz | 412               | Easy         | O(n)                | O(n)         | [Solution](https://github.com/your-username/repo-name/strings/3-longest-substring-without-repeating-characters.cpp) |
+| Fizz Buzz | 412               | Easy         | O(n)                | O(n)         | [Solution](https://github.com/oburay/Leetcode-solutions/blob/main/Strings/%20Fizz%20Buzz.cpp) |
 
 
 ---
