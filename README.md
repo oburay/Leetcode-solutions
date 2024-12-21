@@ -6,7 +6,7 @@ Feel free to browse the solutions and check out the corresponding code for each 
 
 ## Table of Contents
 - [Arrays and Matrices](#arrays-and-matrices)
-- [Strings](###Strings)
+- [Strings](###strings)
 <!-- - [Other Categories](#other-categories) -->
 <!-- -->
 
