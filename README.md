@@ -6,6 +6,7 @@ Feel free to browse the solutions and check out the corresponding code for each 
 
 ## Table of Contents
 - [Arrays and Matrices](#arrays-and-matrices)
+- [Strings](###Strings)
 <!-- - [Other Categories](#other-categories) -->
 <!-- -->
 
@@ -22,18 +23,23 @@ This category contains solutions to LeetCode problems related to **arrays** and 
 
 
 ---
-
-
-
-## Other Categories
-
 ### Strings
 
 | **Problem Name**        | **Problem Number** | **Difficulty** | **Time Complexity** | **Space Complexity** | **Link to Solution**               |
 |-------------------------|--------------------|----------------|---------------------|----------------------|-------------------------------------|
 | Fizz Buzz | 412               | Easy         | O(n)                | O(1)         | [Solution](https://github.com/oburay/Leetcode-solutions/blob/main/Strings/%20Fizz%20Buzz.cpp) |
 
+---
+<!--
+## Other Categories
 
+### Misc
+
+| **Problem Name**        | **Problem Number** | **Difficulty** | **Time Complexity** | **Space Complexity** | **Link to Solution**               |
+|-------------------------|--------------------|----------------|---------------------|----------------------|-------------------------------------|
+| Fizz Buzz | 412               | Easy         | O(n)                | O(1)         | [Solution](https://github.com/oburay/Leetcode-solutions/blob/main/Strings/%20Fizz%20Buzz.cpp) |
+
+-->
 ---
 
 
