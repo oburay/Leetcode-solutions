@@ -23,18 +23,19 @@ This category contains solutions to LeetCode problems related to **arrays** and 
 
 ---
 
-<!--
+
+
 ## Other Categories
 
 ### Strings
 
 | **Problem Name**        | **Problem Number** | **Difficulty** | **Time Complexity** | **Space Complexity** | **Link to Solution**               |
 |-------------------------|--------------------|----------------|---------------------|----------------------|-------------------------------------|
-| Longest Substring Without Repeating Characters | 3                | Medium         | O(n)                | O(min(n, m))         | [Solution](https://github.com/your-username/repo-name/strings/3-longest-substring-without-repeating-characters.cpp) |
-| Valid Palindrome        | 125                | Easy           | O(n)                | O(1)                 | [Solution](https://github.com/your-username/repo-name/strings/125-valid-palindrome.cpp) |
+| Fizz Buzz | 412               | Easy         | O(n)                | O(n)         | [Solution](https://github.com/your-username/repo-name/strings/3-longest-substring-without-repeating-characters.cpp) |
+
 
 ---
--->
+
 
 ## Contributing
 
